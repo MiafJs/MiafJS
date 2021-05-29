@@ -1,11 +1,7 @@
 <h2> Hi there, I am Miaf</h2>
-<p align="center">
- <a href="https://discord.com/users/324886053884264449" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://www.github.com/MiafJS" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
- <a href="https://www.instagram.com/thismiaf" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-  
 
-  
+<img width="30%" align="right" src="https://github-readme-stats.vercel.app/api?username=MiafJS&title_color=fff&icon_color=F9A2C5&text_color=#8C0077&bg_color=#B51943&show_icons=true&hide_border=true&hide=issues&hide_title=true&border_radius=6&hide_rank=true">
+
  ## My Favourite Languages ​​
 <div class="Languages"> <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> </div>
