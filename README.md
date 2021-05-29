@@ -2,7 +2,7 @@
 I'm JavaScript developer. (My favourite language.)
 ##
 <span> 
-<p align="center">
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiafJS&show_icons=true&theme=radical" width="%100" height="200px"
 </p>
 </span>
