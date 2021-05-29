@@ -1,6 +1,6 @@
 <h2> Hi there, I am Miaf.</h2>
 I'm JavaScript developer. (My favourite language.)
-##
+
 <span> 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiafJS&show_icons=true&theme=radical" width="%100" height="200px"
