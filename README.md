@@ -1,5 +1,5 @@
 <h2> Hi there, I am Miaf.</h2>
-I'm JavaScript developer. (My favourite language.)
+I'm JavaScript developer. (from BTK Academy.)
 
 <span> 
 <p>
